@@ -2450,6 +2450,10 @@ select {
   color: #444;
   top: 25px; }
 
+img {
+  width: 65px;
+  height: 130px; }
+
 body {
   background: #e9e9e9; }
   body a {
