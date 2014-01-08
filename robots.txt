@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://indianmobilemart.com/sitemap.xml 
